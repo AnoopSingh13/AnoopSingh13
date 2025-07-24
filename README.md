@@ -30,7 +30,6 @@ I'm Anoop Singh
     An automated tool that uses NLP and Named Entity Recognition (NER) to extract key information from resumes (PDF format) and provide structured insights.
 
    ## 🧠 Skills
-
 **Languages:** Python, SQL, C++
 
 **Libraries/Tools:** Pandas, Scikit-learn, Seaborn, Excel, 
@@ -41,9 +40,7 @@ I'm Anoop Singh
 ## 📫 Connect With Me
 
 📍 Mahendragarh, Haryana, India 
-
 📞 +91-7404907564
-
 📧 anooptanwar12345@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/anoop-singh-839721306)  
 
