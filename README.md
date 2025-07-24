@@ -1,4 +1,5 @@
 ## Hi  Anoop Singh
+
 I'm Anoop Singh
 
 🎓B.Tech in Artificial Intelligence @ B.K.B.I.E.T, Pilani  
