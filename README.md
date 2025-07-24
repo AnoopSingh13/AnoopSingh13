@@ -20,7 +20,7 @@ I'm Anoop Singh
 
 **Languages:** Python, SQL, C++  
 **Libraries/Tools:** Pandas, Scikit-learn, Seaborn, Excel, 
-**Domain Skills:** Data Cleaning, Automation, Forecasting, Dashboarding
+**Domain Skills:** Data Cleaning, Automation, Forecasting, Dashboarding 
 
 
 ## 📫 Connect With Me
