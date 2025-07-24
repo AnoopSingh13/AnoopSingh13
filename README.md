@@ -7,12 +7,16 @@ I'm Anoop Singh
 ## 🚀 Projects
 💎 [Diamond Price Prediction]
       Built a machine learning model to predict diamond prices using carat, cut, color, and clarity features.  
- 🧾 [Invoice Automation System]
+
+🧾 [Invoice Automation System]
       Automated invoice extraction using Python and OCR. Parsed scanned PDFs and converted them into structured Excel reports.
+ 
  📈 [Sales Forecasting Dashboard]
     Built a regional sales predictor using historical data, Excel visualization, and a linear regression model.
+
 📉 [Churn Prediction System]
    A machine learning model that predicts whether a customer will churn or not based on historical behavior and service data.
+
 🤖[Resume Screening Agent]
    An automated tool that uses NLP and Named Entity Recognition (NER) to extract key information from resumes (PDF format) and provide structured insights.
 
