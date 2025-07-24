@@ -1,6 +1,5 @@
 ## Hi  Anoop Singh
-<!--
- I'm Anoop Singh
+I'm Anoop Singh
 🎓B.Tech in Artificial Intelligence @ B.K.B.I.E.T, Pilani  
 🤖 AI & ML Enthusiast | Python • Machine Learning • C++  •  Object Oriented Programming
 💼 Building future-ready solutions using data, automation, and creativity.
@@ -17,12 +16,12 @@
 🤖[Resume Screening Agent]
    An automated tool that uses NLP and Named Entity Recognition (NER) to extract key information from resumes (PDF format) and provide structured insights.
 
-
-## 🧠 Skills
+   ## 🧠 Skills
 
 **Languages:** Python, SQL, C++  
 **Libraries/Tools:** Pandas, Scikit-learn, Seaborn, Excel, 
 **Domain Skills:** Data Cleaning, Automation, Forecasting, Dashboarding
+
 
 ## 📫 Connect With Me
 
@@ -31,4 +30,5 @@
 📧 anooptanwar12345@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/anoop-singh-839721306)  
 
+<!--
 -->
