@@ -29,6 +29,14 @@ I'm Anoop Singh
       
     An automated tool that uses NLP and Named Entity Recognition (NER) to extract key information from resumes (PDF format) and provide structured insights.
 
+🚀[AI Resume Ranking Agent]
+
+Developed an AI-powered Resume Ranking Agent using NLP (TF-IDF, cosine similarity) to automatically parse, analyze, and rank resumes against job descriptions, reducing manual screening effort.Designed a Streamlit-based interface to upload resumes and display ranked candidates with relevance scores for efficient hiring decisions.
+
+📊 Superstore Data Analytics Project
+Built an interactive Power BI dashboard on Superstore dataset to analyze sales, profit, and customer trends using DAX, Power Query, and dynamic visualizations.Performed data cleaning, transformation, and exploratory data analysis to identify top-performing regions, products, and profit-driving factors.
+
+
    ## 🧠 Skills
 **Languages:** Python, SQL, C++
 
