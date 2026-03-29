@@ -39,11 +39,11 @@ I'm Anoop Singh
 
 
    ## 🧠 Skills
-**Languages:** Python, SQL, C++
+**Languages:** Python, SQL, Machine Learning, Artificial Intelligence.
 
-**Libraries/Tools:** Pandas, Scikit-learn, Seaborn, Excel, 
+**Libraries/Tools:** Pandas, Numpy, Scikit-learn, Seaborn, Excel, Power BI, Data Cleaning, Visualization.
 
-**Domain Skills:** Data Cleaning, Automation, Forecasting, Dashboarding 
+**Domain Skills:** Data Cleaning, Automation, Forecasting, Dashboarding, Ranking Scoring.
 
 
 ## 📫 Connect With Me
